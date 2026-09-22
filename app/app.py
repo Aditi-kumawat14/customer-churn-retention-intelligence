@@ -97,16 +97,16 @@ st.markdown(
 
 
     /* =====================================================
-       MAIN CONTAINER
-       ===================================================== */
+   MAIN CONTAINER
+   ===================================================== */
 
-    .block-container {
-        padding-top: 1.2rem;
-        padding-left: 1.5rem;
-        padding-right: 1.5rem;
-        padding-bottom: 2rem;
-        max-width: 1500px;
-    }
+.block-container {
+    padding-top: 2.5rem !important;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 2rem;
+    max-width: 1500px;
+}
 
 
     /* =====================================================
