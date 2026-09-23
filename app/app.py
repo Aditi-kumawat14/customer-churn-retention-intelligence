@@ -925,23 +925,23 @@ with st.sidebar:
 
         options=[
             "Overview",
+            "Churn Prediction",
             "Visualization",
             "Customer Segmentation",
             "Customer Health",
-            "Churn Prediction",
             "Revenue at Risk",
             "Retention Priority",
             "Recommendations",
             "Customer Search",
             "About"
         ],
-
+        
         icons=[
             "house",
+            "robot",
             "bar-chart-line",
             "people",
             "heart-pulse",
-            "robot",
             "cash-stack",
             "bullseye",
             "lightbulb",
